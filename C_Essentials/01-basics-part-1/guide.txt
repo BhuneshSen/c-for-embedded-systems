@@ -1,0 +1,12 @@
+This Set covers the foundations of C programming. Each program is designed to build understanfing of syntax, data types, input/output, and simple operations.
+
+1. Printing Output
+2. Data Types & sizeof
+3. Variables & Format Specifiers
+4. Taking Input (scanf)
+5. Number Systems
+6. Type Conversion & Truncation
+7. Overflow
+8. Swapping Values
+9. Arithmetic with Doubles
+10. Mixed-Type Operations
