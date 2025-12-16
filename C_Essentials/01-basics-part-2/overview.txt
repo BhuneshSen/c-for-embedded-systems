@@ -1,0 +1,28 @@
+This set covers fundamental concepts of C programming through a set of 12 problems.
+The focus is on control structures, operators, functions, and nested loops.
+
+Concepts Covered:
+1. Conditional statements (if-else) - grading system, vowel check, leap year check
+2. Arithmetic operations - swapping numbers without third variable, reversing digits
+3. Comparison operators - finding biggest of three numbers
+4. Iteration (loops) - sum & average of n numbers, factorial calculation
+5. Nested loops - generating numeric and character patterns
+6. Basic input/output handling in C
+
+Problem Set:
+- program 1: Grade calculation using if-else
+- program 2: Swap two numbers without third variable
+- program 3: Reverse a 3-digit number
+- program 4: Find biggest of three numbers
+- program 5: Check if character is vowel
+- program 6: Check if year is leap year
+- program 7: Sum & average of n numbers
+- program 8: Factorial of a number
+- program 9 – program 11: Numeric pattern printing using nested loops
+- program 12: Character pattern printing using nested loops
+
+Overall, this assignment strengthens understanding of:
+- Decision-making in C
+- Looping constructs
+- Pattern generation
+- Problem-solving with basic algorithms
