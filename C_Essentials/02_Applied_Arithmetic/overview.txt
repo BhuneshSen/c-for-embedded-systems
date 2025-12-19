@@ -1,0 +1,23 @@
+Overview
+This set covers fundamental concepts of C programming through a set of 10 problems.
+The focus is on control structures, functions, recursion, and mathematical algorithms.
+
+Concepts Covered
+Conditional statements (if-else / switch-case) – tax calculator, grade system, prime check
+Arithmetic operations – calculator with multiple choices, GCD & LCM
+Iteration (loops) – Fibonacci series, list of prime numbers
+Recursion – recursive digit sum
+Mathematical logic – Armstrong number, perfect number
+Basic input/output handling in C – user-driven programs with clear prompts
+
+Problem Set
+Program 1: Choice-based arithmetic calculator using functions
+Program 2: Income tax calculator with exemptions and conditions
+Program 3: Student grade calculation based on marks in n subjects
+Program 4: GCD and LCM of two numbers
+Program 5: Prime number checker
+Program 6: Fibonacci series generator
+Program 7: Armstrong number checker
+Program 8: Perfect number checker
+Program 9: Recursive sum of digits in a number
+Program 10: Print list of prime numbers up to a given limit
