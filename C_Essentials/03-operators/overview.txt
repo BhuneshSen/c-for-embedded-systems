@@ -1,0 +1,33 @@
+Problem Statement
+The objective of this set is to implement C programs that demonstrate the use of operators, expressions, formatted inputoutput, arrays, number system conversions, and logical calculations through practical problem-solving.
+
+Concepts Covered
+Loops and pattern generation – Pascal triangle
+Operators – arithmetic, bitwise (XOR), pre-increment, post-increment, pre-decrement, post-decrement, comma operator
+Swapping techniques – with temporary variable, without temporary variable, XOR method
+Conditional operator – biggest of three numbers
+Time conversion logic – hh:mm:ss to seconds and seconds to hh:mm:ss
+Formatted input/output – usage of printf format specifiers
+Arrays – sum, average, minimum and maximum operations
+Number systems – decimal, binary, octal, hexadecimal conversions
+Date and day calculation – finding day of the week using reference date
+
+Problem Set:
+Program 1: Print Pascal Triangle
+Program 2: Swapping of two numbers using multiple techniques
+Program 3: Demonstrate pre/post increment and decrement operators
+Program 4: Find the biggest of three numbers using conditional operator
+Program 5: Time conversion between hh:mm:ss and seconds
+Program 6: Demonstrate formatted output using printf
+Program 7: Expression evaluation using increment and comma operators
+Program 8: Integer array operations (sum, average, min, max)
+Program 9: Number system conversions
+Program 10: Find day of the week based on reference date
+
+Overall, this assignment strengthens understanding of:
+- Operators and expression evaluation
+- Increment, decrement and conditional operators
+- Formatted input/output in C
+- Array manipulation and data processing
+- Number system conversions
+- Logical problem-solving and analytical thinking
