@@ -1,0 +1,37 @@
+Overview
+This set focuses on array and matrix manipulation in C programming through a collection of 13 problems.
+The emphasis is on array indexing, pointer behavior, function usage, and matrix operations, helping build a strong foundation for data handling and numerical computation.
+
+Concepts Covered:
+Array indexing and pointer concepts – accessing elements using a[i] and i[a], memory addressing
+Searching techniques in arrays – linear search with index return and failure handling
+Functions with arrays – passing arrays to functions and returning values or addresses
+Array manipulation – reversing arrays, addition of arrays
+Polynomial evaluation – using arrays to store coefficients and compute polynomial values
+Matrix operations – addition, subtraction, multiplication
+Matrix transformations – transpose of a matrix
+Matrix properties – trace, determinant (2×2 and 3×3)
+Solving linear equations – systems of 2 and 3 variables
+Special matrices – identity and null matrix generation and validation
+
+Problem Set:
+program 1: Check whether a given number exists in an array and return its index or -1
+program 2: Find the address of a specific element in an array using a function
+program 3: Reverse an array in memory
+program 4: Perform addition of two arrays
+program 5: Evaluate a polynomial using array-stored coefficients
+program 6: Perform addition, subtraction, and multiplication of two matrices
+program 7: Find the transpose of a matrix
+program 8: Calculate the trace of a matrix
+program 9: Find the determinant of 2×2 and 3×3 matrices
+program 10: Solve linear equations with two and three variables
+program 11: Generate identity and null matrices
+program 12: Check whether a given matrix is an identity matrix
+program 13: Check whether a given matrix is a null matrix
+
+Overall, this assignment strengthens understanding of:
+Array indexing and memory concepts
+Functions and pointer interaction with arrays
+Matrix representation and manipulation
+Mathematical problem-solving using C
+Logical thinking and structured programming
