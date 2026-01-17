@@ -1,0 +1,41 @@
+Assignment 6 – Pointer Concepts and Endianness in C
+
+This set focuses on advanced pointer concepts and memory representation in C through a set of 12 programs.
+The assignment emphasizes endianness, pointer arithmetic, void pointers, const correctness, array–pointer relationships, and low-level memory access.
+
+Concepts Covered:
+
+Endianness – identifying little and big endian systems
+Byte order conversion – host to network and vice versa
+Pointer arithmetic – increment, decrement, and dereferencing behavior
+Array–pointer relationship – accessing elements using pointers
+Void pointers – type conversion and arithmetic limitations
+Pointers to arrays – one-dimensional and multi-dimensional arrays
+Sizeof operator – sizes of pointers and dereferenced objects
+Pointer safety – using assert before dereferencing
+Const correctness – constant data vs constant pointers
+2D array access – equivalence of pointer and index notation
+Generic pointer access – accessing array elements without size
+Advanced pointer declarations – pointers to multi-dimensional arrays
+
+Problem Set:
+program 1: Check system endianness (little or big endian)
+program 2: Convert short integer between little endian and big endian (network order)
+program 3: Convert integer between little endian and big endian (network order)
+program 4: Evaluate complex pointer expressions using increment and dereference operators
+program 5: Convert between different pointer types using void*
+program 6: Test arithmetic operations on void pointers
+program 7: Pointer to array usage, size evaluation, and array element access
+program 8: Use of assert macro for pointer validation
+program 9: Const pointer variations and allowed operations
+program 10: Access 2D arrays using pointers and verify equivalence of expressions
+program 11: Print last element of an array using pointer notation without size
+program 12: Understand pointers to multi-dimensional arrays and analyze their sizes
+
+Overall, this assignment strengthens understanding of:
+Memory representation and byte ordering
+Pointer arithmetic and operator precedence
+Safe and correct pointer usage
+Relationship between arrays and pointers
+Multi-dimensional array handling
+Low-level C programming concepts used in systems programming
